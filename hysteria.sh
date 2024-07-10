@@ -2,8 +2,8 @@
 
 #Do not forget to set this variables
 DOMAIN=udpserv.khaledagn.com
-CF_ID=agnkhaled11@gmail.com
-CF_KEY=54578812da59c595d6e83fa90022544888fae
+CF_ID=ezanstream@gmail.com
+CF_KEY=4ca048bc011061b0e01f2e4a0bdf535e038a8
 CF_ZONE=695a6007808a2b1a03e505235e5f4dd9
 SSL_ID=killthebeat11@gmail.com
 MYIP=$(wget -qO- icanhazip.com);
